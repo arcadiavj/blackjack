@@ -1,4 +1,4 @@
-# BlackJack -Porfolio Diego-
+# BlackJack -Portfolio Diego-
 
 Pasos para ejecutar proyecto:
 
