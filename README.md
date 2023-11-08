@@ -1,4 +1,4 @@
-# BlackJack Vite
+# BlackJack -Porfolio Diego-
 
 Pasos para ejecutar proyecto:
 
